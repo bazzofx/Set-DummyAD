@@ -283,4 +283,4 @@ foreach ($dept in $Depts) {
 }
 
 Write-Host "-------------------------"
-Write-Host "[✓] Completed without duplicate-object errors." -ForegroundColor Green
+Write-Host "[INFO] Completed without duplicate-object errors." -ForegroundColor Green
